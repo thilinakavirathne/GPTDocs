@@ -1,4 +1,11 @@
-# Document AssistantGPT
+# Document GPT
+
+installing the Project
+    * install requirements.txt
+    * change path to src/
+    * Run chatbot.py
+    
+-----------------About the Project------------------
 
 - **File Upload:** Users can upload CSV, PDF, and TXT files for analysis.
 
@@ -20,6 +27,4 @@
 
 - **Streamlit:** For building a user-friendly and responsive web interface.
 
-For a quick overview [Video](https://drive.google.com/file/d/1LtJo1z5w26aAnolNQtlbsan5-mQG981C/view?usp=sharing). You can access the live version of this web application [here](https://doc-assistantgpt.onrender.com/). 
 
-![Image Alt Text](https://github.com/ThaminduSulakshana/DOC.AssistantGPT/blob/main/Screenshot%20(445).png)
