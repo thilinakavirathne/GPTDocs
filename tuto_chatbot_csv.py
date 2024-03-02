@@ -11,8 +11,8 @@ import tempfile
 from chatbot import Chatbot  # Import the modified Chatbot class
 
 user_api_key = st.sidebar.text_input(
-    label="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", 
-    placeholder="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, sk-",
+    label="##############################", 
+    placeholder="##########################, sk-",
     type="password")
 
 uploaded_file = st.sidebar.file_uploader("upload", type="csv")
